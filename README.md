@@ -15,7 +15,9 @@ For now, it supports 3 Non-Dow Tickers for analysis as well:
 ![alt text](./images/Screenshot%202022-06-05%20at%201.30.11%20PM.png)
 
 ## Demo
-This app has been deployed to Heroku and can be accessed at
+This app has been deployed to Streamlit Cloud and can be accessed at:
+
+>https://share.streamlit.io/prakashash18/epsvsclosingpriceanalysis/main/epsVsPriceApp.py
 
 Details of this analysis can be found in the jupyter notebook
 
