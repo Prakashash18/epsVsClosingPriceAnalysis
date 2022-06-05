@@ -233,10 +233,9 @@ st.write(
     annoucement that follows every quarter in the US is the earnings call
     for respective stocks.During the earnings call, one might be
     interested to know whether the company beat the analyst estimates
-    for Earnings Per Share (EPS).
-
-    Also, the corollary is whether it moves the stock price significantly
-    for that quarter after the announcement.In this analysis, we are using
+    for Earnings Per Share (EPS). Also, the corollary is whether
+    it moves the stock price significantly for that quarter after
+    the announcement.In this analysis, we are using
     the percentage change in the 3-month closing price for that quarter and
     plot it wrt to the EPS surprise percent which is the % difference between
     the estimated EPS and actual EPS for that quarter."""
